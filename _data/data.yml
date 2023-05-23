@@ -64,7 +64,7 @@ projects:
     title: Projects
     assignments:
       - title: Table tennis matchmaking
-        link: "#hook"
+        link: "tt-matchmaking.herokuapp.com"
         tagline: "A responsive website template designed to help table tennis players find partners with a live chat feature."
 
 
@@ -73,12 +73,12 @@ skills:
 
     toolset:
       - name: MERN(Mongodb, expressjs, reactjs, nodejs)
-
+        level: 90%
       - name: Javascript
-
+        level: 95%
       - name: HTML5 & CSS
-
+        level: 85%
       - name: React Redux
-
+        level: 80%
       - name: Git
-
+        level: 90%
